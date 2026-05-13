@@ -24,10 +24,6 @@ A reinforcement learning project built in Unity using ML-Agents where two AI age
 
 The goal of this project was to explore reinforcement learning concepts by creating a competitive AI environment where agents improve over time through iterative training and experimentation.
 
-## Screenshots
-
-_Add screenshots or gameplay GIFs here._
-
 ## Getting Started
 
 1. Clone the repository
